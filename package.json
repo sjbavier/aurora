@@ -4,6 +4,7 @@
   "displayName": "aurora",
   "description": "VSCode theme which is redolent of the aurora borealis",
   "version": "0.0.1",
+  "icon": "logo.png",
   "repository": "git+https://github.com/sjbavier/aurora.git",
   "engines": {
     "vscode": "^1.97.2"
