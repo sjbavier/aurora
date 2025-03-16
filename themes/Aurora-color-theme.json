@@ -13,14 +13,14 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#acea88"
       }
     },
     {
       "name": "Punctuation",
       "scope": "punctuation, constant.other.symbol",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#96e1da"
       }
     },
     {
@@ -62,21 +62,21 @@
       "name": "Keyword",
       "scope": "keyword, modifier, variable.language.this, support.type.object, constant.language",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#96e1da"
       }
     },
     {
       "name": "Function call",
       "scope": "entity.name.function, support.function",
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#6ec8e7"
       }
     },
     {
       "name": "Storage",
       "scope": "storage.type, storage.modifier, storage.control",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#c5a3ff"
       }
     },
     {
@@ -121,7 +121,7 @@
       "name": "Punctuation",
       "scope": "punctuation",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#96e1da"
       }
     },
     {
@@ -149,14 +149,14 @@
       "name": "Function definition",
       "scope": "meta.function entity.name.function",
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#6ec8e7"
       }
     },
     {
       "name": "Template expression",
       "scope": "template.expression.begin, template.expression.end, punctuation.definition.template-expression.begin, punctuation.definition.template-expression.end",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#96e1da"
       }
     },
     {
@@ -184,7 +184,7 @@
       "name": "JSON constant",
       "scope": "constant.language.json",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#96e1da"
       }
     },
     {
@@ -219,7 +219,7 @@
       "name": "HTML tag outer",
       "scope": "meta.tag, punctuation.definition.tag",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#96e1da"
       }
     },
     {
@@ -233,7 +233,7 @@
       "name": "HTML tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#c5a3ff"
       }
     },
     {
@@ -247,7 +247,7 @@
       "name": "Markdown heading",
       "scope": "markup.heading",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#96e1da"
       }
     },
     {
@@ -261,7 +261,7 @@
       "name": "Markdown list item",
       "scope": "text.html.markdown beginning.punctuation.definition.list",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#96e1da"
       }
     },
     {
@@ -292,14 +292,14 @@
       "name": "Markdown code block",
       "scope": "markup.fenced_code.block.markdown punctuation.definition.markdown",
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#acea88"
       }
     },
     {
       "name": "Markdown inline code",
       "scope": "markup.inline.raw.string.markdown",
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#acea88"
       }
     },
     {
@@ -313,7 +313,7 @@
       "name": "INI section title",
       "scope": "entity.name.section.group-title.ini",
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#96e1da"
       }
     },
     {
@@ -334,7 +334,7 @@
       "name": "C# function call",
       "scope": "source.cs meta.method-call meta.method, source.cs entity.name.function",
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#6ec8e7"
       }
     },
     {
@@ -397,7 +397,7 @@
       "name": "Function Call",
       "scope": "source.python meta.function-call.python, meta.function-call.arguments",
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#6ec8e7"
       }
     },
     {
@@ -411,7 +411,7 @@
       "name": "Function Call",
       "scope": "entity.name.function.call",
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#6ec8e7"
       }
     },
     {
@@ -425,7 +425,7 @@
       "name": "Constant keywords",
       "scope": "constant.keyword",
       "settings": {
-        "foreground": "#89DDFF",
+        "foreground": "#96e1da",
         "fontStyle": "italic"
       }
     },
@@ -433,7 +433,7 @@
       "name": "Entity name",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#6ec8e7"
       }
     },
     {
@@ -461,7 +461,7 @@
       "name": "Markup Inserted",
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#acea88"
       }
     },
     {
@@ -475,7 +475,7 @@
       "name": "Keyword Control",
       "scope": ["keyword.control"],
       "settings": {
-        "foreground": "#89DDFF",
+        "foreground": "#96e1da",
         "fontStyle": "italic"
       }
     },
@@ -507,7 +507,7 @@
       "scope": ["markup.quote"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#89DDFF"
+        "foreground": "#96e1da"
       }
     },
     {
@@ -530,7 +530,7 @@
         "meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#c5a3ff"
       }
     },
     {
@@ -575,7 +575,7 @@
         "meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#6ec8e7"
       }
     },
     {
@@ -593,7 +593,7 @@
         "meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#c5a3ff"
       }
     },
     {
@@ -602,7 +602,7 @@
         "meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#acea88"
       }
     }
   ],
@@ -648,7 +648,7 @@
     "editor.selectionBackground": "#717CB450",
     "editor.selectionHighlightBackground": "#FFCC0020",
     "editor.wordHighlightBackground": "#ff9cac30",
-    "editor.wordHighlightStrongBackground": "#C3E88D30",
+    "editor.wordHighlightStrongBackground": "#acea8830",
     "editor.findMatchHighlight": "#babed8",
     "editor.findRangeHighlightBackground": "#FFCB6B30",
     "editor.lineHighlightBorder": "#00000000",
@@ -668,7 +668,7 @@
     "notebook.focusedCellBorder": "#80CBC4",
     "notebook.inactiveFocusedCellBorder": "#80CBC450",
     "statusBar.background": "#1B1E2B",
-    "statusBar.debuggingBackground": "#C792EA",
+    "statusBar.debuggingBackground": "#c5a3ff",
     "statusBar.debuggingForeground": "#ffffff",
     "statusBar.noFolderBackground": "#292D3E",
     "statusBarItem.activeBackground": "#f0717880",
@@ -678,24 +678,24 @@
     "titleBar.activeBackground": "#1B1E2B",
     "pickerGroup.border": "#FFFFFF1a",
     "terminal.ansiBlack": "#000000",
-    "terminal.ansiBlue": "#82AAFF",
+    "terminal.ansiBlue": "#6ec8e7",
     "terminal.ansiBrightBlack": "#676E95",
-    "terminal.ansiBrightBlue": "#82AAFF",
-    "terminal.ansiBrightCyan": "#89DDFF",
-    "terminal.ansiBrightGreen": "#C3E88D",
-    "terminal.ansiBrightMagenta": "#C792EA",
+    "terminal.ansiBrightBlue": "#6ec8e7",
+    "terminal.ansiBrightCyan": "#96e1da",
+    "terminal.ansiBrightGreen": "#acea88",
+    "terminal.ansiBrightMagenta": "#c5a3ff",
     "terminal.ansiBrightRed": "#f07178",
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.ansiBrightYellow": "#FFCB6B",
-    "terminal.ansiCyan": "#89DDFF",
-    "terminal.ansiGreen": "#C3E88D",
-    "terminal.ansiMagenta": "#C792EA",
+    "terminal.ansiCyan": "#96e1da",
+    "terminal.ansiGreen": "#acea88",
+    "terminal.ansiMagenta": "#c5a3ff",
     "terminal.ansiRed": "#f07178",
     "terminal.ansiWhite": "#ffffff",
     "terminal.ansiYellow": "#FFCB6B",
     "debugToolBar.background": "#292D3E",
     "debugConsole.errorForeground": "#f07178",
-    "debugConsole.infoForeground": "#89DDFF",
+    "debugConsole.infoForeground": "#96e1da",
     "debugConsole.warningForeground": "#FFCB6B",
     "selection.background": "#00000080",
     "editorRuler.foreground": "#4E5579",
@@ -725,8 +725,8 @@
     "editorIndentGuide.background": "#4E557970",
     "editorIndentGuide.activeBackground": "#4E5579",
     "editorGroup.border": "#00000030",
-    "editorGutter.modifiedBackground": "#82AAFF60",
-    "editorGutter.addedBackground": "#C3E88D60",
+    "editorGutter.modifiedBackground": "#6ec8e760",
+    "editorGutter.addedBackground": "#acea8860",
     "editorGutter.deletedBackground": "#f0717860",
     "activityBar.border": "#424A6C60",
     "activityBar.foreground": "#babed8",
@@ -749,9 +749,9 @@
     "editorOverviewRuler.findMatchForeground": "#80CBC4",
     "editorOverviewRuler.border": "#292D3E",
     "editorOverviewRuler.errorForeground": "#f0717840",
-    "editorOverviewRuler.infoForeground": "#82AAFF40",
+    "editorOverviewRuler.infoForeground": "#6ec8e740",
     "editorOverviewRuler.warningForeground": "#FFCB6B40",
-    "editorInfo.foreground": "#82AAFF70",
+    "editorInfo.foreground": "#6ec8e770",
     "editorWarning.foreground": "#FFCB6B70",
     "editorError.foreground": "#f0717870",
     "editorHoverWidget.border": "#FFFFFF10",
@@ -763,7 +763,7 @@
     "input.placeholderForeground": "#babed860",
     "input.border": "#FFFFFF10",
     "inputValidation.errorBorder": "#f07178",
-    "inputValidation.infoBorder": "#82AAFF",
+    "inputValidation.infoBorder": "#6ec8e7",
     "inputValidation.warningBorder": "#FFCB6B",
     "dropdown.border": "#FFFFFF10",
     "quickInput.background": "#292D3E",
@@ -776,13 +776,13 @@
     "editorSuggestWidget.highlightForeground": "#80CBC4",
     "editorSuggestWidget.selectedBackground": "#00000050",
     "editorSuggestWidget.border": "#FFFFFF10",
-    "diffEditor.insertedTextBackground": "#89DDFF20",
+    "diffEditor.insertedTextBackground": "#96e1da20",
     "diffEditor.removedTextBackground": "#ff9cac20",
     "notifications.background": "#292D3E",
     "notifications.foreground": "#babed8",
     "notificationLink.foreground": "#80CBC4",
-    "extensionButton.prominentBackground": "#C3E88D90",
-    "extensionButton.prominentHoverBackground": "#C3E88D",
+    "extensionButton.prominentBackground": "#acea8890",
+    "extensionButton.prominentHoverBackground": "#acea88",
     "extensionButton.prominentForeground": "#babed8",
     "peekViewEditorGutter.background": "#333747",
     "peekViewTitleDescription.foreground": "#babed860",
@@ -791,8 +791,8 @@
     "peekViewResult.selectionBackground": "#757CA170",
     "gitDecoration.deletedResourceForeground": "#f0717890",
     "gitDecoration.conflictingResourceForeground": "#FFCB6B90",
-    "gitDecoration.modifiedResourceForeground": "#82AAFF90",
-    "gitDecoration.untrackedResourceForeground": "#C3E88D90",
+    "gitDecoration.modifiedResourceForeground": "#6ec8e790",
+    "gitDecoration.untrackedResourceForeground": "#acea8890",
     "gitDecoration.ignoredResourceForeground": "#757CA190",
     "breadcrumb.background": "#292D3E",
     "breadcrumb.foreground": "#757CA1",
